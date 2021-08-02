@@ -1,0 +1,7 @@
+django
+youtube-search-python
+googlesearch-python
+nltk
+spacy
+whitenoise
+json2html
